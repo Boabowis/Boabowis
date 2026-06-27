@@ -155,32 +155,6 @@ Desarrollo profesional enfocado en la reestructuración arquitectónica de aplic
 
 ---
 
-## CERTIFICACIONES
-
-### Sistemas Cloud & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Foundations-004D40?style=flat-square&logo=amazon&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Firebase_Architecture-006064?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-</p>
-
-### Ingeniería de Software & Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Database_SQL_Certified-00838F?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-0097A7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/>
-</p>
-
----
-
-## PERFILES DE PROGRAMACIÓN
-
-<div align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Algoritmos_y_Estructuras-004D40?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Bases_de_Datos_%26_SQL-006064?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Ingenier%C3%ADa_Core-00838F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
-</div>
-
----
-
 ## ANALÍTICAS DE GITHUB
 
 <div align="center">
@@ -212,4 +186,3 @@ Enfoque_Actual_De_Ingenieria:
   Desarrollando: Aplicaciones PWAs de alto rendimiento con integración nativa
   Investigando: Computación perimetral (Edge Computing) e IA predictiva en móviles
   Disponibilidad: Abierta a retos empresariales en Full Stack y Cloud Infrastructure
-
