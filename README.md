@@ -11,26 +11,18 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Educaci%C3%B3n-MEDAC%20Desarrollo%20Multiplataforma-00838F?style=for-the-badge" alt="Academic Badge"/>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Sevilla,%20Espa%C3%B1a-006064?style=for-the-badge" alt="Location Badge"/>
-  <img src="https://img.shields.io/badge/Estado-Abierta_a_Oportunidades-0097A7?style=for-the-badge" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Titulaci%C3%B3n-Desarrollo%20Multiplataforma-00838F?style=for-the-badge" alt="Academic Badge"/>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Granada,%20Espa%C3%B1a-006064?style=for-the-badge" alt="Location Badge"/>
+  <img src="https://img.shields.io/badge/Perfil-Full_Stack_%26_Cloud_Developer-0097A7?style=for-the-badge" alt="Role Badge"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://Boabowis.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Terminal_Interactivo-004D40?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/albahoces/"><img src="https://img.shields.io/badge/LinkedIn-Red_Profesional-006064?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:alba.rubia2@live.com"><img src="https://img.shields.io/badge/Email-Contacto_Directo-00838F?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Boabowis"><img src="https://img.shields.io/badge/GitHub-Repositorios_de_C%C3%B3digo-0097A7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boabowis&style=flat-square&color=00bcd4&label=Vistas+del+Perfil" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Boabowis?style=flat-square&color=0097a7&label=Seguidores" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Boabowis?style=flat-square&color=00838f&label=Estrellas" alt="Stars"/>
+  <a href="https://Boabowis.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Terminal_Pip--Boy-004D40?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/albahoces/"><img src="https://img.shields.io/badge/LinkedIn-in%2Falbahoces-006064?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alba.rubia2@live.com"><img src="https://img.shields.io/badge/Email-alba.rubia2%40live.com-00838F?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Boabowis"><img src="https://img.shields.io/badge/GitHub-%40Boabowis-0097A7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
@@ -204,26 +196,10 @@ Desarrollo profesional enfocado en la reestructuración arquitectónica de aplic
 
 ---
 
-## TROFEOS DE GITHUB
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Boabowis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## ACTIVIDAD DE CONTRIBUCIONES
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boabowis&bg_color=0D1117&color=00E5FF&line=00BCD4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## CONTRIBUCIONES (SNAKE)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Boabowis/Boabowis/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -236,3 +212,4 @@ Enfoque_Actual_De_Ingenieria:
   Desarrollando: Aplicaciones PWAs de alto rendimiento con integración nativa
   Investigando: Computación perimetral (Edge Computing) e IA predictiva en móviles
   Disponibilidad: Abierta a retos empresariales en Full Stack y Cloud Infrastructure
+
