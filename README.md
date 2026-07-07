@@ -117,13 +117,34 @@ Simulador web avanzado de montaje y físicas desarrollado sin dependencias de fr
 | :--- | :--- |
 | **Stack** | Vanilla JavaScript (ES6+), CSS3 Grid/Flexbox, HTML5 DOM API |
 | **Escala** | Motor de juego multi-estado con transformaciones dinámicas de cuadrícula y seguimiento de eventos |
-| **Rendimiento** | Renderizado fluido a 60 FPS utilizando transiciones CSS aceleradas por hardware |
+| **Rendimiento** | Renderizado fluido a 60 FPS utilizando transiciones CSS acelaradas por hardware |
 | **Seguridad** | Manipulación higienizada del DOM y ejecución bajo protocolos estrictos (*strict mode*) |
 | **Impacto** | Gamificación interactiva integrada directamente en la interfaz de un portfolio corporativo |
 | **Repositorio** | [Ver Simulación Interactiva](https://Boabowis.github.io/portfolio/puzzle-game/index.html) |
 
 **Explicación Profesional del Proyecto:**
 Desarrollo desde cero de un motor de arrastrar y soltar (Drag & Drop). Implementación de algoritmos de verificación matricial para evaluar la precisión en la colocación de piezas, retroalimentación auditiva sintética en tiempo real mediante Web Audio API y encapsulamiento visual bajo una interfaz retro-futurista de terminal informático.
+</details>
+
+<br>
+
+<details>
+<summary><b>[ PROYECTO: DASHBOARD SOC DE SIMULACIÓN Y DETECCIÓN DE AMENAZAS (LOG SENTINEL) ]</b></summary>
+<br>
+
+Sistema SOC (Security Operations Center) de monitorización y análisis de amenazas cibernéticas en tiempo real, con motor de base de datos relacional y simulación de ataques de seguridad.
+
+| Atributo | Especificación Técnica |
+| :--- | :--- |
+| **Stack** | Python FastAPI, SQLite, Vanilla JavaScript (ES6+), Chart.js |
+| **Escala** | Motor de base de datos relacional indexado para correlación de eventos e IoC |
+| **Simulador** | Inyector asíncrono de eventos de red y amenazas (Fuerza bruta, exfiltración, IoC) |
+| **Resiliencia** | Modo demostración interactivo autónomo en frontend para ejecución estática sin backend |
+| **Logros** | Correlación automática de IPs con listas de Threat Intel reputacionales (Feodo Tracker) |
+| **Repositorio** | [Ver Código y Guía Técnica](https://github.com/Boabowis/portfolio/tree/main/log-sentinel) |
+
+**Explicación Profesional del Proyecto:**
+Desarrollo de un panel SOC interactivo diseñado bajo arquitectura REST. El backend en FastAPI analiza flujos de logs, correlaciona conexiones con feeds de Threat Intelligence en tiempo real y activa alertas críticas al detectar patrones anómalos como exfiltraciones masivas (>500 MB) o intentos repetidos de fuerza bruta SSH. Para asegurar su portabilidad y visualización en plataformas de hosting estático (como GitHub Pages), se diseñó un fallback de simulación en memoria dentro del frontend, permitiendo interactividad completa sin necesidad de levantar el servidor local de Python.
 </details>
 
 ---
@@ -158,14 +179,14 @@ Desarrollo profesional enfocado en la reestructuración arquitectónica de aplic
 ## ANALÍTICAS DE GITHUB
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boabowis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BCD4" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Boabowis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BCD4" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boabowis&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boabowis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Boabowis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages"/>
 </div>
 
 ---
